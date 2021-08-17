@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -10,7 +10,8 @@ namespace TestDefinitivo
         public string nombre { get; set; }
         public void prueba()
         {
-            //hola
+
+//prueba
         }
     }
 }
