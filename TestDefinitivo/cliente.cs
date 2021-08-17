@@ -10,7 +10,7 @@ namespace TestDefinitivo
         public string nombre { get; set; }
         public void prueba()
         {
-
+            //hola
         }
     }
 }
