@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestDefinitivo
 {
-    class conexion
+    class conexionBD
     {
     }
 }
